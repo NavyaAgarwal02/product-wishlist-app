@@ -113,13 +113,26 @@ The app will be available at `http://localhost:3000`
 
 ## Screenshots
 
+### SignUp & Login
 ![Screenshot 1](/screenshots/signup.png)
-![Screenshot 2](/screenshots/password.png)
-![Screenshot 3](/screenshots/wishlist.png)
-![Screenshot 4](/screenshots/product.png)
-![Screenshot 7](/screenshots/invitation.png)
-![Screenshot 6](/screenshots/email.png)
-![Screenshot 5](/screenshots/afterInvitation.png)
+
+### Email
+![Screenshot 2](/screenshots/email.png)
+
+### Password
+![Screenshot 3](/screenshots/password.png)
+
+### Wishlist
+![Screenshot 4](/screenshots/wishlist.png)
+
+### Product
+![Screenshot 5](/screenshots/product.png)
+
+### Invitation
+![Screenshot 6](/screenshots/invitation.png)
+
+### After Invitation
+![Screenshot 7](/screenshots/afterInvitation.png)
 
 ## Contributing
 
