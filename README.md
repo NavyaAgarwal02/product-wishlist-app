@@ -34,8 +34,8 @@ A collaborative shopping experience where users can create, manage, and share wi
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd shared-wishlist-app
+git clone https://github.com/NavyaAgarwal02/product-wishlist-app.git
+cd product-wishlist-app
 ```
 
 2. Install dependencies:
@@ -113,7 +113,7 @@ The app will be available at `http://localhost:3000`
 
 ## Screenshots
 
-![Screenshot 1](/screenshots/signup & login.png)
+![Screenshot 1](/screenshots/signup.png)
 ![Screenshot 2](/screenshots/password.png)
 ![Screenshot 3](/screenshots/wishlist.png)
 ![Screenshot 4](/screenshots/product.png)
