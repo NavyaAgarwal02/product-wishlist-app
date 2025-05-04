@@ -1,4 +1,4 @@
-# Shared Wishlist App
+# Product Wishlist App
 
 A collaborative shopping experience where users can create, manage, and share wishlists with others.
 
